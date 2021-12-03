@@ -1,7 +1,7 @@
 # MLDM_project
 
 This repository consists of a participation inside “Rainforest Connection Species Audio Detection” Kaggle competition.
-It consists of one notebook “Rainforest.ipynb” and one zip file with datasets furnished inside the Kaggle contest.
+It consists of one notebook “Rainforest.ipynb” and one document where I explain my process.
 
 You can find description of the data here: https://www.kaggle.com/c/rfcx-species-audio-detection/data
 One important point is that true positive and false positive are only considering one species during one period of the recording. You can have a false positive extract inside one recording but still earing the species at another moment.
